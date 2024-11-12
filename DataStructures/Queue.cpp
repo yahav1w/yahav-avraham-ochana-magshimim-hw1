@@ -16,8 +16,8 @@ void initQueue(Queue* q, unsigned int size)
 void cleanQueue(Queue* q) 
 {
 	delete[](q->value);
-	delete(q);
-	q = NULL;
+	q->endSize = 0;
+	q->nowSize = 0;
 }
 
 void enqueue(Queue* q, unsigned int newValue)
@@ -64,10 +64,4 @@ bool isFull(Queue* s)
 	return false;
 }
 
-int main()
-{
-
-
-	return 0;
-}
 

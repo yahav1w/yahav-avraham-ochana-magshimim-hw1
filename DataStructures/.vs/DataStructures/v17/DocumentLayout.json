@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8222F528-5942-4C6E-942E-CC3B0B7DF7D6}|DataStructures.vcxproj|C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\yahav-avraham-ochana-magshimim-hw1\\DataStructures\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8222F528-5942-4C6E-942E-CC3B0B7DF7D6}|DataStructures.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8222F528-5942-4C6E-942E-CC3B0B7DF7D6}|DataStructures.vcxproj|C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\yahav-avraham-ochana-magshimim-hw1\\DataStructures\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8222F528-5942-4C6E-942E-CC3B0B7DF7D6}|DataStructures.vcxproj|solutionrelative:main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\yahav-avraham-ochana-magshimim-hw1\\DataStructures\\main1.cpp",
+              "RelativeDocumentMoniker": "main1.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\yahav-avraham-ochana-magshimim-hw1\\DataStructures\\main1.cpp",
+              "RelativeToolTip": "main1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T19:07:35.567Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Queue.cpp",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\yahav-avraham-ochana-magshimim-hw1\\DataStructures\\Queue.cpp",
               "RelativeToolTip": "Queue.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-12T15:57:27.51Z",
               "EditorCaption": ""
