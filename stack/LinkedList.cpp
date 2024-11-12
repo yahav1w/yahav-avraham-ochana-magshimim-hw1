@@ -31,10 +31,4 @@ Node* Remove(Node* list)
 	}							
 	return list;
 }
-void init(Node* list)
-{
-	list->currSize = 0;
-	list->next = NULL;
-	list->value = 0;
-}
 
