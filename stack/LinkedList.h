@@ -10,8 +10,7 @@ typedef struct Node
 }Node;
 
 Node* Insert(Node list, int value);
-Node* Remove(Node* list);
-void init(Node* list);
+int RemoveNode(Node* list);
 
 
 #endif /* LINKEDLIST_H */

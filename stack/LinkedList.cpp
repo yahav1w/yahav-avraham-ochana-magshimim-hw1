@@ -17,7 +17,7 @@ Node* Insert(Node list, int value)
 	}
 }
 
-Node* Remove(Node* list)
+int RemoveNode(Node* list)
 {
 	if (list->currSize == 0||list == NULL)
 	{
@@ -25,10 +25,11 @@ Node* Remove(Node* list)
 	}
 	Node* newFirst = list;
 	list = list->next;
+	int num = newFirst->value;
 	if (newFirst)
 	{
 		delete(newFirst);
 	}							
-	return list;
+	return num;
 }
 
