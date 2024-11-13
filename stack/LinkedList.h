@@ -3,14 +3,13 @@
 
 typedef struct Node
 {
-	unsigned int value;
+	unsigned int value;	
 	int currSize;
 	Node* next;
-
 }Node;
 
-Node* Insert(Node list, int value);
-int RemoveNode(Node* list);
+Node* Insert(Node* list, int value);
+int RemoveNode(Node*& list);
 
 
 #endif /* LINKEDLIST_H */

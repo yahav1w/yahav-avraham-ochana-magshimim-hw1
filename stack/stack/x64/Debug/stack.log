@@ -1,3 +1,7 @@
 ﻿  main2.cpp
-C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\stack\main2.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\stack\main2.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\stack\main2.cpp(20,1): warning C4005: 'PURPLE': macro redefinition
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\stack\main2.cpp(14,1):
+  see previous definition of 'PURPLE'
+  
   stack.vcxproj -> C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\stack\x64\Debug\stack.exe

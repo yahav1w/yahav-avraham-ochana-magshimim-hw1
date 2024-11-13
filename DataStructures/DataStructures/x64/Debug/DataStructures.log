@@ -1,2 +1,6 @@
-﻿  Queue.cpp
+﻿  main1.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\DataStructures\main1.cpp(17,1): warning C4005: 'PURPLE': macro redefinition
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\DataStructures\main1.cpp(11,1):
+  see previous definition of 'PURPLE'
+  
   DataStructures.vcxproj -> C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\yahav-avraham-ochana-magshimim-hw1\DataStructures\x64\Debug\DataStructures.exe
